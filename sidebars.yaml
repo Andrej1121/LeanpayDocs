@@ -5,6 +5,8 @@ training:
     pages:
       - label: Setup
         page: developer-portal/setup.md
+      - label: IS THIS WORKING?
+        page: developer-portal/plugins/nop.md
       - label: Markdown
         page: developer-portal/markdown.md
       - label: Folder structure
