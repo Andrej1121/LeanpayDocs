@@ -38,6 +38,29 @@ training:
         page: developer-portal/mdx.mdx
       - label: Creating React components
         page: developer-portal/custom-component.mdx
+  - group: Leanpay Slovenia
+    expanded: true
+    pages:
+      - group: Kako do večje prodaje?
+        pages:
+        - label: 1 - Ozaveščanje kupcev
+          page:  developer-portal/integracija/oglasevanje.md
+        - label: 2 - Razdeljena cena
+          page: developer-portal/integracija/razdeljena-cena.md
+        - label: 3 - Preveri svoj limit
+          page: developer-portal/integracija/prequalify.md
+        - label: 4 - Plačilna metoda
+          page: developer-portal/integracija/payment-method.md
+        - label: 5 - Verifikacija
+          page: developer-portal/integracija/customer-verification.md
+        - label: 6 - Pogoji poslovanja
+          page: developer-portal/integracija/terms-and-conditions.md
+        - label: 7 - Multiprodukt
+          page: developer-portal/integracija/multiproduct.md
+        - label: 8 - Video predstavitev
+          page: developer-portal/integracija/video.md
+        - label: Woocommerce
+          page: developer-portal/woocommerce.md
   - group: Petstore reference
     expanded: false
     pages:
